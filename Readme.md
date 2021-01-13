@@ -3,7 +3,7 @@
 - parse pcap file
 
 # Specification
-- https://gitlab.com/gilgil/sns/-/wikis/stl/report-ip-stat
+- https://gitlab.com/gilgil/sns/-/wikis/stl/report-packet-stat
 
 # Usage
 ```
